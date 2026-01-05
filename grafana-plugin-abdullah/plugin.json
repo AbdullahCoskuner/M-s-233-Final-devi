@@ -1,0 +1,25 @@
+{
+  "type": "panel",
+  "name": "Abdullah Panel",
+  "id": "grafana-plugin-abdullah",
+  "state": "beta",
+  "baseUrl": "/public/plugins/grafana-plugin-abdullah",
+  "module": "dist/module.js",
+  "staticRoot": "dist",
+  "preload": false,
+  "backend": false,
+  "info": {
+    "version": "1.0.0",
+    "updated": "2025-01-05",
+    "author": {
+      "name": "Abdullah Coşkuner"
+    },
+    "description": "Custom Grafana panel plugin - Abdullah Coşkuner",
+    "links": [],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "screenshots": []
+  }
+}
